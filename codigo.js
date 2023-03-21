@@ -9,7 +9,7 @@ function tablaMultiplicar(tabla) {
               resultado = tabla * i
                // Salta cuando i =3
               if (i=== 3) {
-               alert("lo siento no se puede multiplicar los numeros por 3")      
+               alert("lo siento no se puede multiplicar los numeros por 3 ,me olvide como se hace")      
                      continue
               } 
               
